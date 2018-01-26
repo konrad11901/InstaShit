@@ -16,3 +16,4 @@ This is the home repository for all InstaShit projects.
 
 * InstaShit.ASP - ASP.NET version of InstaShit
 * InstaShit.iOS - InstaShit for iOS
+* Converting InstaShit's history _(wordsDictionary.json)_ to QuizLet sets
