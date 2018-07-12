@@ -1,4 +1,4 @@
-# InstaShit.CLI
+# InstaShit.Android
 
 **InstaShit.Android** to wersja InstaShita przeznaczona na urządzenia z systemem Android (5.0+).
 
