@@ -39,5 +39,5 @@ Jeśli ustawiono IntelligentMistakesData:
 
 Zaawansowane ustawienia (do ręcznej konfiguracji):
 
-* **AnswerMarketingQuestions** - określa, czy odpowiadać na pytania sponsorowane (które zachęcają do zakupu słówek) - to ustawienie zdaje się nie mieć żadnego wpływu na wynik sesji. Domyślna wartość: tak (true)
+* **AnswerMarketingQuestions** - określa, czy odpowiadać na pytania sponsorowane (które zachęcają do zakupu słówek) - to ustawienie zdaje się nie mieć żadnego wpływu na wynik sesji. Domyślna wartość: nie (false)
 * **Debug** - określa, czy wypisywać dane diagnostyczne, które mogą pomóc w znalezieniu źródła potencjalnego błędu. Domyślna wartość: nie (false)
