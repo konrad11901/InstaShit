@@ -1,10 +1,14 @@
 # InstaShit.Android
 
+**WAŻNE: InstaShit.Android NIE obsługuje obecnej wersji Insta.Linga i nie będzie w stanie rozwiązać sesji. Należy korzystać z InstaShit.CLI lub InstaShit.Bot.**
+
+*Osoby, które mimo licznych wad InstaShit.Android chcą nadal z niego korzystać, mogą na własną rękę skompilować projekt używając najnowszego InstaShitCore.*
+
 **InstaShit.Android** to wersja InstaShita przeznaczona na urządzenia z systemem Android (5.0+).
 
 **Wsparcie dla InstaShit.Android zakończyło się 30 czerwca 2018 roku.** Żadne nowe aktualizacje (w tym poprawki błędów i aktualizacje InstaShitCore) nie zostaną udostępnione. InstaShit.Android zawiera liczne błędy i nie jest w pełni kompatybilny z Android Oreo. Przejście na InstaShit.CLI lub InstaShit.Bot jest mocno rekomendowane.
 
-Ostatnia wersja InstaShit.Android (v0.5.4) została wydana 27 maja 2018 roku, bazuje na InstaShitCore v1.0.8 i w momencie pisania tej dokumentacji nadal potrafiła rozwiązać sesję Insta.Linga.
+Ostatnia wersja InstaShit.Android (v0.5.4) została wydana 27 maja 2018 roku, bazuje na InstaShitCore v1.0.8 ~~i w momencie pisania tej dokumentacji nadal potrafiła rozwiązać sesję Insta.Linga~~.
 
 ## Pobieranie
 
